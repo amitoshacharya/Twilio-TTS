@@ -4,3 +4,4 @@
 - Each File contains separate readme.md file with steps to be followed for a successfull connection.
 - **Twilio-SMS** --> *Text-to-Text using Twilio Application.*
 - **Twilio-XILabs Voice Synthesizer** --> *Text-to-Speech and Speech-to-Text using Twilio Application.*
+- **Twilio-XILabs Voice Synthesizer - II** --> *Text-to-Speech and Speech-to-Text using Twilio Application. Includes Batch Processing and is* ***in progress**.*
