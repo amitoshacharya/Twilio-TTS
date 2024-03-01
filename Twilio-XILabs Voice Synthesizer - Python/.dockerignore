@@ -1,0 +1,9 @@
+*.md
+__pycache__/
+.vscode/
+.git/
+.gitignore
+.github/
+*.mwb
+/venv/
+makefile
